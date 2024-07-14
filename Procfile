@@ -1,2 +1,2 @@
-web: python -m Adarsh
+web: Python 3.10
  
