@@ -1,2 +1,3 @@
-web: Python 3.10
+worker: python utils_bot.py
+
  
